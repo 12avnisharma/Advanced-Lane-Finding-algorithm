@@ -1,4 +1,4 @@
-## [Basic Lane Detection](./Advanced_Lane_finding_project.ipynb/)
+## [Advanced Lane Detection](./Advanced_Lane_finding_project.ipynb/)
 
 # INTRODUCTION
 
