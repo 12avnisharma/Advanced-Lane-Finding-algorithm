@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 - Determine the curvature of the lane and vehicle position with respect to center. * Warp the detected lane boundaries back onto the original image. 
 - Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position. 
 
-
+# STEPS TAKEN
 To achieve this, the following steps are taken:
 - Computed the camera calibration matrix and distortion coefficients of the camera lens used given a set of chessboard images taken by the same camera
 - Used the aforementioned matrix and coefficient to correct the distortions given by the raw output from the camera
